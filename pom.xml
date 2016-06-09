@@ -14,6 +14,7 @@
         <module>mtx-dto</module>
         <module>mtx-interface</module>
         <module>mtx-service</module>
+        <module>mtx-assembly</module>
     </modules>
 
     <properties>
